@@ -23,8 +23,8 @@ A data analysis project to explore and visualize e-commerce sales data using **P
 
 ## 📊 Final Results
 ![Dashboard](Excel_dashboard_E-commerce.png)  
-![Revenue by Region](images/Revenue_by_region python_code.png)  
-![Top 5 Customers](images/Top 5 customer.png)  
+![Top5Customers](Final_result_screenshot/Top_5_customers.png)    
+![category and total_revenue](Final_result_screenshot/category_and_total_revenue.png) 
 
 ---
 
