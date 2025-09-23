@@ -22,7 +22,7 @@ A data analysis project to explore and visualize e-commerce sales data using **P
 ---
 
 ## 📊 Final Results
-![Dashboard](Excel_dashboard_E-commerces.png)  
+![Dashboard](Final_result_screenshot/Excel_dashboard_E-commerces.png)  
 ![TopCustomers](Final_result_screenshot/Top_5_customer.png)    
 ![category and total_revenue](Final_result_screenshot/category_and_total_revenue.png) 
 
@@ -32,7 +32,7 @@ A data analysis project to explore and visualize e-commerce sales data using **P
 - **Excel / CSV** (for dataset)  
 - **Python Libraries:**  
   - `pandas`  
-  - `matplotlib` / `seaborn` (for visualization)  
+  - `matplotlib` (for visualization)  
   - `sqlalchemy` or `mysql-connector-python` (for SQL connection)  
 - **Database:** MySQL   
 - **Jupyter Notebook**  
